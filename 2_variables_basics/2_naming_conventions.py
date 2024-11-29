@@ -1,12 +1,12 @@
 '''
 Variable Naming:
-- We can put numbers but they cannot be at the beginning --> variable123
+- We can put numbers but they cannot be at the beginning --> 1variable - variable123
 - We cannot enter spaces in a variable, we use underscore 
-to separate words --> contestant_1
+to separate words --> contestant no1 - contestant_no1
 - We use "snake_casing", a convention that is very pythonic 
-to name variables --> last_name
+to name variables --> lastName - last_name
 - You CANT name a variable as a Python reserved word.
-- Make sure your name makes sense --> x, p invalid -- 
+- Make sure your name makes sense --> x, p - Invalid -- age_counter - Right
 - Constants such as 3.14, can be defined in UPPERCASE --> PI = 3.14159
 '''
 
